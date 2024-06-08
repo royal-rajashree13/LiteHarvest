@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "298451019483",
+    "firebase_url": "https://liteharvest-68d43-default-rtdb.firebaseio.com",
+    "project_id": "liteharvest-68d43",
+    "storage_bucket": "liteharvest-68d43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298451019483:android:2a863894a182dea87f4efe",
+        "android_client_info": {
+          "package_name": "com.example.lite_harvest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_lnSk_keNK4S-jj1AhGDnDGjDcP0caqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
