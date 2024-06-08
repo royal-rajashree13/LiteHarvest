@@ -14,7 +14,7 @@ This project focuses on the development of a wick-based hydroponics system integ
 
 ## Download App in Phone 
 The system and mobile should be connected to the same network
-## Wireless debugging 
+### Wireless debugging 
 Go to phone settings
 Select on version
 Click Build number until developer options are enabled
