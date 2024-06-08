@@ -20,19 +20,29 @@ Go to phone settings
 Select on version
 
 Click Build number until developer options are enabled
+
 Go to developer options 
+
 On wireless debugging
+
 Run the following code in the terminal using path cd C:\Users\Admin\AppData\Local\Android\Sdk\platform-tools 
+
 >./adb tcpip 5555
+
 >./adb connect [IP address]
+
 or
+
 >.\adb pair [IP address]:[Paring code]
+
 Go back to the project file and run the code
 
 ## Database
 Used Firebase for real-time database
+
 To be able to obtain real-time data the Firebase project fingerprint needs to be uploaded to FirebaseHttpClient.h file
 
 ## Notifiction
 Download simple push app
+
 Upload code to ESP8266 by providing the key
