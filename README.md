@@ -6,11 +6,11 @@ This project focuses on the development of a wick-based hydroponics system integ
 <img src="https://github.com/gkylsk/LiteHarvest/assets/130023461/94905b24-14b5-470d-8f45-29396e7a03ec" alt="Hardware-1" width="250" height="300">
 <img src="https://github.com/gkylsk/LiteHarvest/assets/130023461/f2b92e69-9ad6-4aae-b4fb-b68705f4867b" alt="Hardware-2" width="250" height="250">
 <img src="https://github.com/gkylsk/LiteHarvest/assets/130023461/d6598135-e821-46d2-b7b3-170e344f0e7a" alt="Wick setup" width="300" height="200">
-<img src="https://github.com/gkylsk/LiteHarvest/assets/130023461/7794b849-d8fb-4fae-881d-eed1be7f26b6" alt="Home Page" width="500" height="300">
-<img src="https://github.com/gkylsk/LiteHarvest/assets/130023461/f4561513-b722-4fab-bc08-41035290015e" alt="Admin Dashboard" width="500" height="300">
-<img src="https://github.com/gkylsk/LiteHarvest/assets/130023461/0dc1566d-555a-4d8b-a470-dc59110bd9c2" alt="Management Login" width="500" height="300">
-<img src="https://github.com/gkylsk/LiteHarvest/assets/130023461/dff9105d-8158-4f39-9de9-6fa148f03758" alt="image" width="500" height="300">
-<img src="https://github.com/gkylsk/LiteHarvest/assets/130023461/10d1f36f-683b-4457-ad9a-c0fa32213203" alt="Notification" width="500" height="300">
+<img src="https://github.com/gkylsk/LiteHarvest/assets/130023461/7794b849-d8fb-4fae-881d-eed1be7f26b6" alt="Home Page" width="200" height="400">
+<img src="https://github.com/gkylsk/LiteHarvest/assets/130023461/f4561513-b722-4fab-bc08-41035290015e" alt="Admin Dashboard" width="200" height="500">
+<img src="https://github.com/gkylsk/LiteHarvest/assets/130023461/0dc1566d-555a-4d8b-a470-dc59110bd9c2" alt="Management Login" width="200" height="500">
+<img src="https://github.com/gkylsk/LiteHarvest/assets/130023461/dff9105d-8158-4f39-9de9-6fa148f03758" alt="Dashboard" width="200" height="500">
+<img src="https://github.com/gkylsk/LiteHarvest/assets/130023461/10d1f36f-683b-4457-ad9a-c0fa32213203" alt="Notification" width="200" height="500">
 
 ## Download App in Phone 
 The system and mobile should be connected to the same network
