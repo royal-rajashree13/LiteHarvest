@@ -16,7 +16,9 @@ This project focuses on the development of a wick-based hydroponics system integ
 The system and mobile should be connected to the same network
 ### Wireless debugging 
 Go to phone settings
+
 Select on version
+
 Click Build number until developer options are enabled
 Go to developer options 
 On wireless debugging
